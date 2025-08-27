@@ -1,2 +1,2 @@
 # procgenworld
-procedurally generated interactive world from prompt or image
+practicing with procedurally generated interactive world from prompt or image
