@@ -1,0 +1,17 @@
+=== which python/pip ===
+/home/pg1221/miniconda3/envs/matrix3d-gold/bin/python
+/home/pg1221/miniconda3/envs/matrix3d-gold/bin/pip
+
+=== versions ===
+Python 3.10.18
+pip 25.2 from /home/pg1221/miniconda3/envs/matrix3d-gold/lib/python3.10/site-packages/pip (python 3.10)
+
+=== conda info ===
+
+# conda environments:
+#
+base                   /home/pg1221/miniconda3
+matrix-game-2.0        /home/pg1221/miniconda3/envs/matrix-game-2.0
+matrix3d-clean         /home/pg1221/miniconda3/envs/matrix3d-clean
+matrix3d-gold        * /home/pg1221/miniconda3/envs/matrix3d-gold
+

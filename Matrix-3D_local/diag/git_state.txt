@@ -1,0 +1,29 @@
+=== repo root ===
+/home/pg1221/Matrix-3D
+
+=== remote ===
+origin	https://github.com/SkyworkAI/Matrix-3D.git (fetch)
+origin	https://github.com/SkyworkAI/Matrix-3D.git (push)
+
+=== current commit ===
+540261a5843ab2eeb0383a4cdd2c51b0373d9ad1
+
+=== status (tracked/untracked changes) ===
+ M code/DiffSynth-Studio/diffsynth.egg-info/PKG-INFO
+ M code/DiffSynth-Studio/diffsynth.egg-info/SOURCES.txt
+ M code/panoramic_image_generation.py
+ M install.sh
+ M submodules/nvdiffrast
+?? checkpoints/
+?? code/fix1.py
+?? code/panoramic_image_generation.py.bak
+?? code/src/
+?? demo_out/
+?? diag/
+?? submodules/simple-knn/ODGS/
+?? xformers-src/
+
+=== submodules (recursive) ===
+ 4cb96a25090ab2f8c53f1298e4fe62dce57dbf1c submodules/ODGS (heads/main)
+ da5f991fb5b4146531b3912d8084162cf1485701 submodules/ODGS/submodules/simple-knn (da5f991)
+ 729261dc64c4241ea36efda84fbf532cc8b425b8 submodules/nvdiffrast (v0.3.3)

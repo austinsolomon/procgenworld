@@ -1,0 +1,7 @@
+name: matrix3d-gold
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - libstdcxx-ng[version='>=14.0.0']
+prefix: /home/pg1221/miniconda3/envs/matrix3d-gold

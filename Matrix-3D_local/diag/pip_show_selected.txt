@@ -1,0 +1,76 @@
+Name: xfuser
+Version: 0.4.4
+Summary: A Scalable Inference Engine for Diffusion Transformers (DiTs) on Multiple Computing Devices
+Home-page: https://github.com/xdit-project/xDiT.
+Author: xDiT Team
+Author-email: fangjiarui123@gmail.com
+License: 
+Location: /home/pg1221/miniconda3/envs/matrix3d-gold/lib/python3.10/site-packages
+Requires: accelerate, beautifulsoup4, distvae, einops, sentencepiece, torch, transformers, yunchang
+Required-by: 
+---
+Name: diffusers
+Version: 0.35.1
+Summary: State-of-the-art diffusion in PyTorch and JAX.
+Home-page: https://github.com/huggingface/diffusers
+Author: The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/diffusers/graphs/contributors)
+Author-email: diffusers@huggingface.co
+License: Apache 2.0 License
+Location: /home/pg1221/miniconda3/envs/matrix3d-gold/lib/python3.10/site-packages
+Requires: filelock, huggingface-hub, importlib_metadata, numpy, Pillow, regex, requests, safetensors
+Required-by: DistVAE
+---
+Name: transformers
+Version: 4.46.2
+Summary: State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow
+Home-page: https://github.com/huggingface/transformers
+Author: The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)
+Author-email: transformers@huggingface.co
+License: Apache 2.0 License
+Location: /home/pg1221/miniconda3/envs/matrix3d-gold/lib/python3.10/site-packages
+Requires: filelock, huggingface-hub, numpy, packaging, pyyaml, regex, requests, safetensors, tokenizers, tqdm
+Required-by: diffsynth, DistVAE, peft, xfuser
+---
+Name: modelscope
+Version: 1.29.1
+Summary: ModelScope: bring the notion of Model-as-a-Service to life.
+Home-page: https://github.com/modelscope/modelscope
+Author: ModelScope team
+Author-email: contact@modelscope.cn
+License: Apache License 2.0
+Location: /home/pg1221/miniconda3/envs/matrix3d-gold/lib/python3.10/site-packages
+Requires: filelock, requests, setuptools, tqdm, urllib3
+Required-by: diffsynth
+---
+Name: open-clip-torch
+Version: 2.7.0
+Summary: OpenCLIP
+Home-page: https://github.com/mlfoundations/open_clip
+Author: 
+Author-email: 
+License: UNKNOWN
+Location: /home/pg1221/miniconda3/envs/matrix3d-gold/lib/python3.10/site-packages
+Requires: ftfy, huggingface-hub, regex, torch, torchvision, tqdm
+Required-by: 
+---
+Name: pytorch3d
+Version: 0.7.7
+Summary: PyTorch3D is FAIR's library of reusable components for deep Learning with 3D data.
+Home-page: https://github.com/facebookresearch/pytorch3d
+Author: FAIR
+Author-email: 
+License: 
+Location: /home/pg1221/miniconda3/envs/matrix3d-gold/lib/python3.10/site-packages
+Requires: fvcore, iopath
+Required-by: 
+---
+Name: peft
+Version: 0.17.1
+Summary: Parameter-Efficient Fine-Tuning (PEFT)
+Home-page: https://github.com/huggingface/peft
+Author: The HuggingFace team
+Author-email: benjamin@huggingface.co
+License: Apache
+Location: /home/pg1221/miniconda3/envs/matrix3d-gold/lib/python3.10/site-packages
+Requires: accelerate, huggingface_hub, numpy, packaging, psutil, pyyaml, safetensors, torch, tqdm, transformers
+Required-by: 

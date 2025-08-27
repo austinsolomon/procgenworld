@@ -1,0 +1,23 @@
+{
+  "python": "3.10.18 (main, Jun  5 2025, 13:14:17) [GCC 11.2.0]",
+  "torch_version": "2.8.0+cu128",
+  "cuda_available": true,
+  "torch_cuda_version": "12.8",
+  "cudnn_available": true,
+  "cudnn_version": 91002,
+  "gpu_count": 1,
+  "gpus": [
+    "NVIDIA GeForce RTX 4090"
+  ],
+  "xformers": "0.0.33+c159edc0.d20250825",
+  "flash_attn": "2.8.2",
+  "diffusers": "0.35.1",
+  "transformers": "4.46.2",
+  "modelscope": "1.29.1",
+  "open_clip": "unknown",
+  "open_clip_torch": "not importable: No module named 'open_clip_torch'",
+  "pytorch3d": "0.7.7",
+  "xfuser": "unknown",
+  "SwissArmyTransformer": "not importable: No module named 'SwissArmyTransformer'",
+  "peft": "0.17.1"
+}
