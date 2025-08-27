@@ -1,2 +1,17 @@
 miniconda3/
 Miniconda3-*.sh
+
+# === ML / env bundles (keep repo lean) ===
+checkpoints/
+*matrix3d_env_*
+*.pt
+*.ckpt
+*.safetensors
+*.pth
+*.bin
+*.zip
+*.7z
+*.tar.gz
+*.mp4
+*.mov
+*.webm
