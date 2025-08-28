@@ -18,3 +18,7 @@ checkpoints/
 AgentMatrix3D/
 AgentMatrix3D_safe_copy/
 Matrix-Game_local/
+AgentMatrix3D/
+AgentMatrix3D_safe_copy/
+Matrix-Game_local/
+.reports/
