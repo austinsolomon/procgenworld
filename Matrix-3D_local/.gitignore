@@ -23,3 +23,12 @@ code/VideoSR/scripts/weights
 .git_backup/
 model_card.md
 *.DS_Store
+# Local heavy artifacts
+checkpoints/
+output/
+data/
+wandb/
+*.pt
+*.ckpt
+*.safetensors
+*.bin
